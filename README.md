@@ -1,6 +1,6 @@
 <h3 align="center">
 	<img src="https://github.com/everviolet/.github/raw/main/assets/logo-circle.png" width="100" alt="Logo"/><br/>
-	Evergarden for <a href="https://iterm2.com/">App</a>
+	Evergarden for <a href="https://iterm2.com/">Iterm</a>
 </h3>
 
 <p align="center">
