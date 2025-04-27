@@ -6,7 +6,7 @@ whiskers:
     - accent
   filename: "themes/evergarden-{{flavor.identifier}}-{{accent}}.itermcolors"
 ---
-{% set accent = flavor.colors[accent] %}
+{% set accent = flavor.colors[accent] -%}
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
